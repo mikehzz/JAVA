@@ -1,0 +1,13 @@
+package com.pcwk.ehr08;
+
+public class Child extends Parent{
+	/**
+	 * child x
+	 */
+	
+	int x=20;
+	
+	void method() {
+		System.out.println("x="+x);
+	}
+}

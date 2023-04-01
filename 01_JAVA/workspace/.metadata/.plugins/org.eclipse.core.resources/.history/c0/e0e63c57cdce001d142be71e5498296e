@@ -1,0 +1,12 @@
+package com_pcwk_ehr08;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class StringBuilderMain implements pcwLog{
+
+	public static void main(String[] args) {
+		StringBuilder sb = new StringBuilder(200);
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package com_pcwk_ehr02;
+
+public class ClassMain {
+
+	public static void main(String[] args) {
+		Book c01 = new Book("돈의 속성", 16800);
+		
+		
+	}
+
+}

@@ -1,0 +1,34 @@
+package com_pcwk_ehr;
+
+//ctrl+shift+o : import 정리
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+
+public class Log4j2Main {
+	
+	//ctrl+shift+f : 소스정렬
+	static final Logger LOG = LogManager.getLogger(Log4j2Main.class);
+	
+	public static void pcwkLength() {
+		String str = "Hello";
+		LOG.debug("length():"+str.length());
+		
+		
+		
+	}
+	
+	public static void main(String[] args) {
+		LOG.debug("오늘은 즐거운 금요일~");
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+}

@@ -1,0 +1,10 @@
+package com_pcwk_ehr02;
+
+public class Math01Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package com_pcwk_ehr07;
+
+import org.apache.logging.log4j.core.util.Loader;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class WrapperMain implements pcwLog {
+	public static void main(String[] args) {
+		Integer iValue = new Integer(23);
+		Integer sValue = new Integer(23);
+		
+		LOG.debug("1value = "+iValue);
+		LOG.debug("sValues="+ sValue);
+		
+		//재표형이름+Value
+		LOG.myintValue=iValue.intValue();
+		LOG.debug("myIntValue"+myIntValue);
+		LOG.debug("Integer.MAX_VALUE:"+Integer.MAX_VALUE;             )
+		LOG.debug("Integer.MIN_VALUE:"+Integer.MIN_VALUE;             )
+
+		
+		
+		
+		
+	}
+}

@@ -1,0 +1,23 @@
+package com_pcwk_ehr08;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class StringBuilderMain implements pcwLog{
+
+	public static void main(String[] args) {
+		StringBuilder sb = new StringBuilder();
+		LOG.debug("sb.capacity() : "+sb.capacity());
+		
+		sb.append("01_java ");
+		sb.append("02_oracle ");
+		
+		LOG.debug("sb.capacity() : "+sb.capacity());
+		LOG.debug(sb.toString());
+
+		
+		
+		
+		
+	}
+
+}

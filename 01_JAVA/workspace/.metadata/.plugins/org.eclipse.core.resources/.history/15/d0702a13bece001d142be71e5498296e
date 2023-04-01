@@ -1,0 +1,33 @@
+package com_pcwk_ehr06;
+
+import java.io.IOException;//try catch 에러 
+
+import com_pcwk_ehr_cmn.pcwLog;
+//Jsoup
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.*;
+import org.jsoup.select.*;
+
+public class CGVJsoup implements pcwLog {
+
+	public static void main(String[] args) {
+		String url = "http://www.cgv.co.kr/movies/?lt=1&ft=0";//cgv 무비차트
+		try {
+			Document doc = Jsoup.connect(url).get();
+//			LOG.debug("*********************************");
+//			LOG.debug(doc.toString());
+//			LOG.debug("*********************************");
+			
+			doc.select("div.box-contents");
+		}catch(IOException e){
+			LOG.debug("====================");
+			LOG.debug("IOException="+e.getMessage());
+			LOG.debug("====================");
+		}
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package com_pcwk_ehr02;
+
+import com_pcwk_ehr_cmn.*;
+
+public class Math01Main implements pcwLog{
+
+	public static void main(String[] args) {
+		LOG.debug("----------");
+	}
+
+}

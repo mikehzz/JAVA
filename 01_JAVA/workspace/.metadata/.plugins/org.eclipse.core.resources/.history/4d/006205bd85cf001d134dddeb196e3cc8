@@ -1,0 +1,21 @@
+package com_pcwk_ehr04;
+
+import java.math.BigInteger;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class BigIntegerMain implements pcwLog{
+
+	public static void main(String[] args) {
+		//Long이 표현 함수 최대값
+		
+		LOG.debug("Long.MAX_VALUE="+Long.MAX_VALUE);//Long.MAX_VALUE=9223372036854775807
+		LOG.debug((""+Long.MAX_VALUE).length());//19자리
+		
+		int i = 2_000_000_000;
+		BigInteger num01 = new BigInteger();
+		
+
+	}
+
+}

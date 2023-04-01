@@ -1,0 +1,5 @@
+package com_pcwk_ehr_cmn;
+
+public interface pcwLog {
+
+}

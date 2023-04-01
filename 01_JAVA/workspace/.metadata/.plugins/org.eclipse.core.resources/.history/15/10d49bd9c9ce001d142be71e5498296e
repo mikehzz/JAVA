@@ -1,0 +1,7 @@
+package com_pcwk_ehr07;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class WrapperMain implements pcwLog {
+
+}

@@ -1,0 +1,17 @@
+package com_pcwk_ehr06;
+
+import java.util.*;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class Calendar01Main implements pcwLog{
+
+	public static void main(String[] args) {
+		Calendar cal01 = Calendar.getInstance();//the default time zone
+		Calendar cal02 = Calendar.getInstance();//the default time zone
+		
+		//싱클톤 여부
+		LOG.debug("ca101:"+cal01.hashCode());
+		LOG.debug("ca102:"+cal02.hashCode());
+	}
+}
