@@ -1,0 +1,16 @@
+package com_pcwk_ehr02;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+class Ex01CalenderMain implements pcwLog {
+
+	public Ex01CalenderMain() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

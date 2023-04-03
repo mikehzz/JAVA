@@ -1,0 +1,24 @@
+package com_pcwk_ehr02;
+
+import java.util.Calendar;
+
+public class Ex04CalendarMain {
+
+	public static void main(String[] args) {
+		//0. 년 월 입력 받기
+		//1. 시작요일
+		//2. 그 달의 시작일
+		//3. 그 달의 마지막일
+		
+	}
+	public static String toDateString(Calendar cal) {
+		String ret = "";
+		ret = cal.get(Calendar.YEAR)+"년 "+(cal.get(Calendar.MONTH)+1)+"월 "+cal.get(Calendar.DAY_OF_MONTH)+"일";
+		
+		
+		return ret;
+	}
+		
+		
+	
+}

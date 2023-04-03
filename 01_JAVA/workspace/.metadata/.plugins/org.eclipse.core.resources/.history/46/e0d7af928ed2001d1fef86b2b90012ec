@@ -1,0 +1,59 @@
+package com_pcwk_ehr02;
+
+import java.util.Calendar;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class Ex04CalendarMain implements pcwLog{
+
+	public static void main(String[] args) {
+		//0. 년 월 입력 받기
+		int year = 0;
+		int month = 0;
+		
+		try {
+		String yearStr = args[0];
+		String monthStr = args[1];
+		LOG.debug("yearStr :"+yearStr);
+		LOG.debug("monthStr :"+monthStr);
+		
+		year = Integer.valueOf(yearStr);
+		month = Integer.parseInt(monthStr);
+		
+		
+		}catch(ArrayIndexOutOfBoundsException e) {
+			LOG.debug("==================");
+			LOG.debug("-파라메터를 입력 하세요.(2023 4)");
+			LOG.debug("==================");
+			LOG.debug("ArrayIndexOutOfBoundsException :" + e.getMessage());
+		}
+		//1. 시작요일
+		//2. 그 달의 시작일
+		//3. 그 달의 마지막일
+		
+		//Calendar 객체 생성
+		Calendar calendar = Calendar.getInstance();
+		
+		//년도와 월 설정
+		calendar.set(Calendar.YEAR, year);
+		calendar.set(Calendar.MONTH, month-1);//Calendar 클래스에서 월은 0부터 시작.
+		
+		//LOG.debug(toDateString(calendar));
+		
+		String[] daysOfWeek = {"일","월","화","수","목","금","토"};
+		
+		//년월 출력
+		System.out.printf("%s\n",toDateString(calendar));
+	}
+	
+	public static String toDateString(Calendar cal) {
+		String ret = "";
+		ret = cal.get(Calendar.YEAR)+"년 "+(cal.get(Calendar.MONTH)+1)+"월 "+cal.get(Calendar.DAY_OF_MONTH)+"일";
+		
+		
+		return ret;
+	}
+		
+		
+	
+}

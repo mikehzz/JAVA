@@ -1,0 +1,95 @@
+현재 시간은 2023년 4월 4일
+오늘은 화요일입니다.
+[DEBUG], 2023-04-04 09:58:28 pcwLog:19 - 현재 시간은 2023년 4월 4일
+[DEBUG], 2023-04-04 09:58:28 pcwLog:26 - 오늘은 화요일입니다.
+[DEBUG], 2023-04-04 09:58:51 pcwLog:19 - 현재 시간은 2023년 4월 4일
+[DEBUG], 2023-04-04 09:58:51 pcwLog:26 - 오늘은 화요일입니다.
+[DEBUG], 2023-04-04 10:07:44 pcwLog:12 - calendarjava.util.GregorianCalendar[time=1680570463932,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=30,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2023,MONTH=3,WEEK_OF_YEAR=14,WEEK_OF_MONTH=2,DAY_OF_MONTH=4,DAY_OF_YEAR=94,DAY_OF_WEEK=3,DAY_OF_WEEK_IN_MONTH=1,AM_PM=0,HOUR=10,HOUR_OF_DAY=10,MINUTE=7,SECOND=43,MILLISECOND=932,ZONE_OFFSET=32400000,DST_OFFSET=0]
+[DEBUG], 2023-04-04 10:17:17 pcwLog:20 - lastDayOfMonth:30
+[DEBUG], 2023-04-04 10:17:17 pcwLog:21 - calendar:Wed Nov 30 10:17:17 KST 2022
+[DEBUG], 2023-04-04 10:17:17 pcwLog:23 - calendar:java.util.GregorianCalendar[time=1669771037098,areFieldsSet=true,areAllFieldsSet=false,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Asia/Seoul",offset=32400000,dstSavings=0,useDaylight=false,transitions=30,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=10,WEEK_OF_YEAR=49,WEEK_OF_MONTH=5,DAY_OF_MONTH=30,DAY_OF_YEAR=334,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=5,AM_PM=0,HOUR=10,HOUR_OF_DAY=10,MINUTE=17,SECOND=17,MILLISECOND=98,ZONE_OFFSET=32400000,DST_OFFSET=0]
+[DEBUG], 2023-04-04 10:22:43 pcwLog:19 - lastDayOfMonth:30
+[DEBUG], 2023-04-04 10:22:43 pcwLog:20 - calendar:Wed Nov 30 10:22:42 KST 2022
+[DEBUG], 2023-04-04 10:22:43 pcwLog:22 - calendar:2022년 11월 30일
+[DEBUG], 2023-04-04 10:46:15 pcwLog:15 - ==================
+[DEBUG], 2023-04-04 10:46:15 pcwLog:16 - -파라메터를 입력 하세요.(2023 4)
+[DEBUG], 2023-04-04 10:46:15 pcwLog:17 - ==================
+[DEBUG], 2023-04-04 10:46:15 pcwLog:18 - ArrayIndexOutOfBoundsException :0
+[DEBUG], 2023-04-04 10:48:14 pcwLog:14 - yearStr :2023
+[DEBUG], 2023-04-04 10:48:14 pcwLog:15 - monthStr :4
+[DEBUG], 2023-04-04 10:48:33 pcwLog:14 - yearStr :1
+[DEBUG], 2023-04-04 10:48:33 pcwLog:15 - monthStr :1
+[DEBUG], 2023-04-04 11:08:24 pcwLog:17 - yearStr :1
+[DEBUG], 2023-04-04 11:08:24 pcwLog:18 - monthStr :1
+[DEBUG], 2023-04-04 11:08:24 pcwLog:41 - 1년 1월 4일
+[DEBUG], 2023-04-04 11:08:56 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:08:56 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:08:56 pcwLog:41 - 2023년 4월 4일
+[DEBUG], 2023-04-04 11:12:20 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:12:20 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:16:33 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:16:33 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:18:27 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:18:27 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:19:37 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:19:37 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:22:28 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:22:28 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:27:14 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:27:14 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:29:27 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:29:27 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:30:06 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:30:06 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:36:21 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:36:21 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:36:33 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:36:33 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:37:31 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:37:31 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:37:59 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:37:59 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 11:39:33 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 11:39:33 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 12:02:48 pcwLog:25 - ==================
+[DEBUG], 2023-04-04 12:02:48 pcwLog:26 - -파라메터를 입력 하세요.(2023 4)
+[DEBUG], 2023-04-04 12:02:48 pcwLog:27 - ==================
+[DEBUG], 2023-04-04 12:02:48 pcwLog:28 - ArrayIndexOutOfBoundsException :0
+[DEBUG], 2023-04-04 12:03:45 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 12:03:45 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 12:07:27 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 12:07:27 pcwLog:18 - monthStr :4
+[DEBUG], 2023-04-04 12:08:52 pcwLog:25 - ==================
+[DEBUG], 2023-04-04 12:08:52 pcwLog:26 - -파라메터를 입력 하세요.(2023 4)
+[DEBUG], 2023-04-04 12:08:52 pcwLog:27 - ==================
+[DEBUG], 2023-04-04 12:08:52 pcwLog:28 - ArrayIndexOutOfBoundsException :0
+[DEBUG], 2023-04-04 12:12:41 pcwLog:25 - ==================
+[DEBUG], 2023-04-04 12:12:41 pcwLog:26 - -파라메터를 입력 하세요.(2023 4)
+[DEBUG], 2023-04-04 12:12:41 pcwLog:27 - ArrayIndexOutOfBoundsException :0
+[DEBUG], 2023-04-04 12:12:41 pcwLog:28 - ==================
+[DEBUG], 2023-04-04 12:17:44 pcwLog:25 - ==================
+[DEBUG], 2023-04-04 12:17:44 pcwLog:26 - -파라메터를 입력 하세요.(2023 4)
+[DEBUG], 2023-04-04 12:17:44 pcwLog:27 - ==================
+[DEBUG], 2023-04-04 12:17:44 pcwLog:28 - ArrayIndexOutOfBoundsException :0
+[DEBUG], 2023-04-04 12:18:00 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 12:18:00 pcwLog:18 - monthStr :5
+[DEBUG], 2023-04-04 12:18:04 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 12:18:04 pcwLog:18 - monthStr :5
+[DEBUG], 2023-04-04 12:18:39 pcwLog:17 - yearStr :2023
+[DEBUG], 2023-04-04 12:18:39 pcwLog:18 - monthStr :5
+[DEBUG], 2023-04-04 12:36:27 pcwLog:15 - yyyy.MM.dd : 2023-04-04
+[DEBUG], 2023-04-04 12:36:27 pcwLog:19 - HH:mm:ss : 12:36:27
+[DEBUG], 2023-04-03 12:37:48 pcwLog:15 - yyyy.MM.dd : 2023-04-03
+[DEBUG], 2023-04-03 12:37:48 pcwLog:19 - HH:mm:ss : 12:37:48
+[DEBUG], 2023-04-03 12:38:15 pcwLog:15 - yyyy.MM.dd : 2023-04-03
+[DEBUG], 2023-04-03 12:38:15 pcwLog:19 - HH:mm:ss : 12:38:15
+[DEBUG], 2023-04-03 12:38:15 pcwLog:23 - yyyy-MM-dd HH:mm:ss.SSS : 2023-04-03 12:38:15.494
+[DEBUG], 2023-04-03 12:41:56 pcwLog:15 - yyyy.MM.dd : 2023-04-03
+[DEBUG], 2023-04-03 12:41:56 pcwLog:19 - HH:mm:ss : 12:41:56
+[DEBUG], 2023-04-03 12:41:56 pcwLog:23 - yyyy-MM-dd HH:mm:ss.SSS : 2023-04-03 12:41:56.167
+[DEBUG], 2023-04-03 12:41:56 pcwLog:27 - 오늘은 올해의 D번째 날 : 오늘은 올해의 93번째 날
+[DEBUG], 2023-04-03 12:42:57 pcwLog:15 - yyyy.MM.dd : 2023-04-03
+[DEBUG], 2023-04-03 12:42:57 pcwLog:19 - HH:mm:ss : 12:42:57
+[DEBUG], 2023-04-03 12:42:57 pcwLog:23 - yyyy-MM-dd HH:mm:ss.SSS : 2023-04-03 12:42:57.195
+[DEBUG], 2023-04-03 12:42:57 pcwLog:27 - 오늘은 올해의 D번째 날 : 오늘은 올해의 93번째 날
+[DEBUG], 2023-04-03 12:42:57 pcwLog:31 - 오늘은 올해의 w번째 날 : 오늘은 올해의 14번째 주

@@ -1,0 +1,19 @@
+package com_pcwk_ehr02;
+
+import com_pcwk_ehr_cmn.pcwLog;
+import java.util.Calendar;
+
+public class Ex02CalendarMain implements pcwLog {
+
+	public static void main(String[] args) {
+		//Calendar 객체 생성
+		Calendar calendar = Calendar.getInstance();
+		
+		LOG.debug("calendar"+calendar.toString());
+		
+		
+		
+		
+	}
+
+}
