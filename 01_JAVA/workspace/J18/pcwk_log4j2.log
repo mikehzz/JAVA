@@ -93,3 +93,35 @@
 [DEBUG], 2023-04-03 12:42:57 pcwLog:23 - yyyy-MM-dd HH:mm:ss.SSS : 2023-04-03 12:42:57.195
 [DEBUG], 2023-04-03 12:42:57 pcwLog:27 - 오늘은 올해의 D번째 날 : 오늘은 올해의 93번째 날
 [DEBUG], 2023-04-03 12:42:57 pcwLog:31 - 오늘은 올해의 w번째 날 : 오늘은 올해의 14번째 주
+[DEBUG], 2023-04-03 14:28:32 pcwLog:15 - #,###.## =>12,345.68
+[DEBUG], 2023-04-03 14:30:36 pcwLog:15 - #,###.## =>12,345.68
+[DEBUG], 2023-04-03 14:30:36 pcwLog:22 - 00000.000 => 12345.679
+[DEBUG], 2023-04-03 14:34:19 pcwLog:15 - #,###.## =>12,345.68
+[DEBUG], 2023-04-03 14:34:19 pcwLog:22 - 00000.000 => 12345.679
+[DEBUG], 2023-04-03 14:34:19 pcwLog:29 - $#,###,###.## => $12,345.68
+[DEBUG], 2023-04-03 14:36:55 pcwLog:15 - #,###.## =>12,345.68
+[DEBUG], 2023-04-03 14:36:55 pcwLog:22 - 00000.000 => 12345.679
+[DEBUG], 2023-04-03 14:36:55 pcwLog:29 - $#,###,###.## => $12,345.68
+[DEBUG], 2023-04-03 14:36:55 pcwLog:36 - \u00A4#,###,###.## => ￦12,345.68
+[DEBUG], 2023-04-03 15:05:14 pcwLog:15 - formatedString:이상무님,2023-04-03에 회의가 예정되어 있습니다. 장소는회의실 402입니다.
+[DEBUG], 2023-04-03 15:06:58 pcwLog:17 - formatedString:이상무님,2023. 4. 3에 회의가 예정되어 있습니다. 장소는회의실 402입니다.
+[DEBUG], 2023-04-03 15:11:17 pcwLog:18 - formatedString:이상무님,2023. 4. 3에 회의가 예정되어 있습니다. 장소는회의실 402입니다.
+[DEBUG], 2023-04-03 15:11:17 pcwLog:23 - formattedStringUS:이상무님,Apr 3, 2023에 회의가 예정되어 있습니다. 장소는회의실 402입니다.
+[DEBUG], 2023-04-03 15:32:56 pcwLog:23 - INSERT INTOm_codeVALUES (  )
+[DEBUG], 2023-04-03 15:32:56 pcwLog:23 - INSERT INTOm_codeVALUES (  )
+[DEBUG], 2023-04-03 15:32:56 pcwLog:23 - INSERT INTOm_codeVALUES (  )
+[DEBUG], 2023-04-03 15:33:42 pcwLog:23 - INSERT INTOm_codeVALUES (이상무,010-1234-5678,{3})
+[DEBUG], 2023-04-03 15:33:42 pcwLog:23 - INSERT INTOm_codeVALUES (오동훈,010-1254-7852,{3})
+[DEBUG], 2023-04-03 15:33:42 pcwLog:23 - INSERT INTOm_codeVALUES (원수연,010-9564-4562,{3})
+[DEBUG], 2023-04-03 15:34:24 pcwLog:23 - INSERT INTOm_codeVALUES (1,이상무,010-1234-5678)
+[DEBUG], 2023-04-03 15:34:24 pcwLog:23 - INSERT INTOm_codeVALUES (2,오동훈,010-1254-7852)
+[DEBUG], 2023-04-03 15:34:24 pcwLog:23 - INSERT INTOm_codeVALUES (3,원수연,010-9564-4562)
+[DEBUG], 2023-04-03 15:36:23 pcwLog:23 - INSERT INTOm_codeVALUES (1,'이상무',010-1234-5678)
+[DEBUG], 2023-04-03 15:36:23 pcwLog:23 - INSERT INTOm_codeVALUES (2,'오동훈',010-1254-7852)
+[DEBUG], 2023-04-03 15:36:23 pcwLog:23 - INSERT INTOm_codeVALUES (3,'원수연',010-9564-4562)
+[DEBUG], 2023-04-03 15:36:29 pcwLog:23 - INSERT INTOm_codeVALUES (1,'이상무',010-1234-5678)
+[DEBUG], 2023-04-03 15:36:29 pcwLog:23 - INSERT INTOm_codeVALUES (2,'오동훈',010-1254-7852)
+[DEBUG], 2023-04-03 15:36:29 pcwLog:23 - INSERT INTOm_codeVALUES (3,'원수연',010-9564-4562)
+[DEBUG], 2023-04-03 15:36:41 pcwLog:23 - INSERT INTOm_codeVALUES (1,'이상무','010-1234-5678')
+[DEBUG], 2023-04-03 15:36:41 pcwLog:23 - INSERT INTOm_codeVALUES (2,'오동훈','010-1254-7852')
+[DEBUG], 2023-04-03 15:36:41 pcwLog:23 - INSERT INTOm_codeVALUES (3,'원수연','010-9564-4562')

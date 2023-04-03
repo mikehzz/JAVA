@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Vector"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr08.XmlParser"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr08.htmlParser"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr08.ParserManger"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr08.Parseable"/>
-<fullyQualifiedTypeName name="java.lang.Readable"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr.AirUnit"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr.GroundUnit"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr.Repairable"/>
 <fullyQualifiedTypeName name="com_pcwk_ehr.DropShip"/>
 <fullyQualifiedTypeName name="com_pcwk_ehr.Marine"/>
 <fullyQualifiedTypeName name="com_pcwk_ehr02.Chicken"/>
@@ -58,6 +49,15 @@
 <fullyQualifiedTypeName name="java.math.BigDecimal"/>
 <fullyQualifiedTypeName name="com_pcwk_ehr05.StringTokenizerMain"/>
 <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
-<fullyQualifiedTypeName name="com_pcwk_ehr_cmn.pcwLog"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.text.MessageFormat"/>
+<fullyQualifiedTypeName name="com_pcwk_ehr_cmn.pcwLog"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.text.ChoiceFormat"/>
 </qualifiedTypeNameHistroy>

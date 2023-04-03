@@ -1,0 +1,12 @@
+package com_pcwk_ehr03;
+
+import com_pcwk_ehr_cmn.pcwLog;
+
+public class Ex03_MessageFormat implements pcwLog {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
