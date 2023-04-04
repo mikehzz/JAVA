@@ -1,0 +1,214 @@
+[DEBUG], 2023-04-04 09:39:11 pcwLog:16 - currentDate : 2023-04-04
+[DEBUG], 2023-04-04 09:39:11 pcwLog:17 - currentTime : 09:39:10.926
+[DEBUG], 2023-04-04 09:39:11 pcwLog:18 - ===================
+[DEBUG], 2023-04-04 09:39:11 pcwLog:25 - Localdate2023-04-07
+[DEBUG], 2023-04-04 09:39:11 pcwLog:26 - LocalTime18:00
+[DEBUG], 2023-04-04 10:05:13 pcwLog:23 - year : 2023
+[DEBUG], 2023-04-04 10:05:13 pcwLog:24 - month : 4
+[DEBUG], 2023-04-04 10:05:13 pcwLog:25 - dayofMonth : 4
+[DEBUG], 2023-04-04 10:05:13 pcwLog:26 - dayofweek : 2
+[DEBUG], 2023-04-04 10:05:13 pcwLog:27 - ===========================
+[DEBUG], 2023-04-04 10:21:15 pcwLog:12 - now : 2023-04-04T10:21:15.450
+[DEBUG], 2023-04-04 10:30:18 pcwLog:17 - now : 2023-04-04T10:30:17.859
+[DEBUG], 2023-04-04 10:30:18 pcwLog:18 - formattedDateTime :2023-04-04 10:30:17
+[DEBUG], 2023-04-04 10:30:18 pcwLog:20 - ======================================
+[DEBUG], 2023-04-04 10:30:18 pcwLog:26 - asiaSeoul zoneDateTime2023-04-04T00:00+09:00[Asia/Seoul]
+[DEBUG], 2023-04-04 10:32:00 pcwLog:17 - now : 2023-04-04T10:32:00.188
+[DEBUG], 2023-04-04 10:32:00 pcwLog:18 - formattedDateTime :2023-04-04 10:32:00
+[DEBUG], 2023-04-04 10:32:00 pcwLog:20 - ======================================
+[DEBUG], 2023-04-04 10:32:00 pcwLog:26 - asiaSeoul zoneDateTime2023-04-04T00:00+09:00[Asia/Seoul]
+[DEBUG], 2023-04-04 10:32:00 pcwLog:31 - America/New_York ZoneDateTime :2023-04-04T00:00-04:00[America/New_York]
+[DEBUG], 2023-04-04 11:34:05 pcwLog:20 - 요소 개수 :3
+[DEBUG], 2023-04-04 11:34:05 pcwLog:23 - 첫 번째 요소 : Apple
+[DEBUG], 2023-04-04 11:34:05 pcwLog:24 - 두 번째 요소 : Banana
+[DEBUG], 2023-04-04 11:34:05 pcwLog:25 - 세 번째 요소 : Orange
+[DEBUG], 2023-04-04 11:34:05 pcwLog:29 - 첫 번째 요소 : watermelon
+[DEBUG], 2023-04-04 11:39:23 pcwLog:20 - 요소 개수 :3
+[DEBUG], 2023-04-04 11:39:23 pcwLog:23 - 첫 번째 요소 : Apple
+[DEBUG], 2023-04-04 11:39:23 pcwLog:24 - 두 번째 요소 : Banana
+[DEBUG], 2023-04-04 11:39:23 pcwLog:25 - 세 번째 요소 : Orange
+[DEBUG], 2023-04-04 11:39:23 pcwLog:29 - 첫 번째 요소 : watermelon
+[DEBUG], 2023-04-04 11:39:23 pcwLog:32 - 요소 삭제 : Orange
+[DEBUG], 2023-04-04 11:39:23 pcwLog:36 - 0 watermelon
+[DEBUG], 2023-04-04 11:39:23 pcwLog:36 - 1 Banana
+[DEBUG], 2023-04-04 11:39:43 pcwLog:20 - 요소 개수 :3
+[DEBUG], 2023-04-04 11:39:43 pcwLog:23 - 첫 번째 요소 : Apple
+[DEBUG], 2023-04-04 11:39:43 pcwLog:24 - 두 번째 요소 : Banana
+[DEBUG], 2023-04-04 11:39:43 pcwLog:25 - 세 번째 요소 : Orange
+[DEBUG], 2023-04-04 11:39:43 pcwLog:29 - 첫 번째 요소 : watermelon
+[DEBUG], 2023-04-04 11:39:43 pcwLog:32 - 요소 삭제 : Orange
+[DEBUG], 2023-04-04 11:39:43 pcwLog:36 - 0 watermelon
+[DEBUG], 2023-04-04 11:39:43 pcwLog:36 - 1 Banana
+[DEBUG], 2023-04-04 11:40:07 pcwLog:20 - 요소 개수 :3
+[DEBUG], 2023-04-04 11:40:07 pcwLog:23 - 첫 번째 요소 : Apple
+[DEBUG], 2023-04-04 11:40:07 pcwLog:24 - 두 번째 요소 : Banana
+[DEBUG], 2023-04-04 11:40:07 pcwLog:25 - 세 번째 요소 : Orange
+[DEBUG], 2023-04-04 11:40:07 pcwLog:29 - 첫 번째 요소 : watermelon
+[DEBUG], 2023-04-04 11:40:07 pcwLog:32 - 요소 삭제 : Orange
+[DEBUG], 2023-04-04 11:40:07 pcwLog:36 - 0 watermelon
+[DEBUG], 2023-04-04 11:40:07 pcwLog:36 - 1 Banana
+[DEBUG], 2023-04-04 11:40:07 pcwLog:41 - Banana이 list에 포함되어 있습니다.
+[DEBUG], 2023-04-04 12:00:40 pcwLog:21 - name : 1
+[DEBUG], 2023-04-04 12:00:42 pcwLog:21 - name : 2
+[DEBUG], 2023-04-04 12:00:44 pcwLog:21 - name : 3
+[DEBUG], 2023-04-04 12:00:45 pcwLog:21 - name : 4
+[DEBUG], 2023-04-04 12:00:46 pcwLog:21 - name : 5
+[DEBUG], 2023-04-04 12:04:25 pcwLog:23 - name : 1
+[DEBUG], 2023-04-04 12:04:26 pcwLog:23 - name : 2
+[DEBUG], 2023-04-04 12:04:26 pcwLog:23 - name : 3
+[DEBUG], 2023-04-04 12:04:27 pcwLog:23 - name : 4
+[DEBUG], 2023-04-04 12:04:28 pcwLog:23 - name : 5
+[DEBUG], 2023-04-04 12:04:28 pcwLog:27 - 0 1
+[DEBUG], 2023-04-04 12:04:28 pcwLog:27 - 1 2
+[DEBUG], 2023-04-04 12:04:28 pcwLog:27 - 2 3
+[DEBUG], 2023-04-04 12:04:28 pcwLog:27 - 3 4
+[DEBUG], 2023-04-04 12:04:28 pcwLog:27 - 4 5
+[DEBUG], 2023-04-04 12:04:55 pcwLog:23 - name : 김형준
+[DEBUG], 2023-04-04 12:04:58 pcwLog:23 - name : 김민준
+[DEBUG], 2023-04-04 12:05:02 pcwLog:23 - name : 김이진
+[DEBUG], 2023-04-04 12:05:04 pcwLog:23 - name : 김오루
+[DEBUG], 2023-04-04 12:05:06 pcwLog:23 - name : 마나
+[DEBUG], 2023-04-04 12:05:06 pcwLog:27 - 0번 째 김형준
+[DEBUG], 2023-04-04 12:05:06 pcwLog:27 - 1번 째 김민준
+[DEBUG], 2023-04-04 12:05:06 pcwLog:27 - 2번 째 김이진
+[DEBUG], 2023-04-04 12:05:06 pcwLog:27 - 3번 째 김오루
+[DEBUG], 2023-04-04 12:05:06 pcwLog:27 - 4번 째 마나
+[DEBUG], 2023-04-04 12:10:18 pcwLog:23 - name : 김형준
+[DEBUG], 2023-04-04 12:10:20 pcwLog:23 - name : 문문문
+[DEBUG], 2023-04-04 12:10:21 pcwLog:23 - name : 아ㅏ아
+[DEBUG], 2023-04-04 12:10:23 pcwLog:23 - name : 마미
+[DEBUG], 2023-04-04 12:10:25 pcwLog:23 - name : 김오오
+[DEBUG], 2023-04-04 12:15:57 pcwLog:23 - name : 김형준
+[DEBUG], 2023-04-04 12:15:59 pcwLog:23 - name : 김민준
+[DEBUG], 2023-04-04 12:16:01 pcwLog:23 - name : 오영수
+[DEBUG], 2023-04-04 12:16:04 pcwLog:23 - name : 오지아
+[DEBUG], 2023-04-04 12:16:07 pcwLog:23 - name : 이마나
+[DEBUG], 2023-04-04 12:16:46 pcwLog:23 - name : 김민준
+[DEBUG], 2023-04-04 12:16:47 pcwLog:23 - name : 김형준
+[DEBUG], 2023-04-04 12:16:49 pcwLog:23 - name : 미
+[DEBUG], 2023-04-04 12:16:50 pcwLog:23 - name : 미니니
+[DEBUG], 2023-04-04 12:16:51 pcwLog:23 - name : 니니니
+[DEBUG], 2023-04-04 12:27:33 pcwLog:20 - 요소 개수 :3
+[DEBUG], 2023-04-04 12:27:33 pcwLog:23 - 첫 번째 요소 : Apple
+[DEBUG], 2023-04-04 12:27:33 pcwLog:24 - 두 번째 요소 : Banana
+[DEBUG], 2023-04-04 12:27:33 pcwLog:25 - 세 번째 요소 : Orange
+[DEBUG], 2023-04-04 12:27:33 pcwLog:29 - 첫 번째 요소 : watermelon
+[DEBUG], 2023-04-04 12:27:33 pcwLog:32 - 요소 삭제 : Orange
+[DEBUG], 2023-04-04 12:27:33 pcwLog:36 - 0 watermelon
+[DEBUG], 2023-04-04 12:27:33 pcwLog:36 - 1 Banana
+[DEBUG], 2023-04-04 12:27:33 pcwLog:41 - Banana 이/가 list에 포함되어 있습니다.
+[DEBUG], 2023-04-04 14:10:11 pcwLog:21 - 요소 개수 :3
+[DEBUG], 2023-04-04 14:10:11 pcwLog:24 - 첫 번째 요소 : Apple
+[DEBUG], 2023-04-04 14:10:11 pcwLog:25 - 두 번째 요소 : Banana
+[DEBUG], 2023-04-04 14:10:11 pcwLog:26 - 세 번째 요소 : Orange
+[DEBUG], 2023-04-04 14:10:11 pcwLog:30 - 첫 번째 요소 : watermelon
+[DEBUG], 2023-04-04 14:10:11 pcwLog:33 - 요소 삭제 : Orange
+[DEBUG], 2023-04-04 14:10:11 pcwLog:37 - 0 watermelon
+[DEBUG], 2023-04-04 14:10:11 pcwLog:37 - 1 Banana
+[DEBUG], 2023-04-04 14:10:11 pcwLog:42 - Banana 이/가 list에 포함되어 있습니다.
+[DEBUG], 2023-04-04 14:17:55 pcwLog:13 - 93
+[DEBUG], 2023-04-04 14:19:25 pcwLog:14 - arrayList : 78
+[DEBUG], 2023-04-04 14:19:26 pcwLog:15 - arrayList : 625
+[DEBUG], 2023-04-04 14:23:41 pcwLog:14 - arrayList : 79
+[DEBUG], 2023-04-04 14:23:41 pcwLog:15 - arrayList : 620
+[DEBUG], 2023-04-04 14:23:54 pcwLog:14 - arrayList : 94
+[DEBUG], 2023-04-04 14:23:55 pcwLog:15 - arrayList : 593
+[DEBUG], 2023-04-04 14:23:55 pcwLog:17 - arrayList : 418
+[DEBUG], 2023-04-04 14:25:02 pcwLog:13 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:25:02 pcwLog:14 - arrayList : 78
+[DEBUG], 2023-04-04 14:25:03 pcwLog:15 - arrayList : 594
+[DEBUG], 2023-04-04 14:25:03 pcwLog:18 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:25:03 pcwLog:19 - arrayList : 259
+[DEBUG], 2023-04-04 14:25:03 pcwLog:20 - LinkedList : 0
+[DEBUG], 2023-04-04 14:28:15 pcwLog:17 - arrayList : 273350
+[DEBUG], 2023-04-04 14:32:48 pcwLog:13 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:32:48 pcwLog:14 - arrayList : 94
+[DEBUG], 2023-04-04 14:32:49 pcwLog:15 - arrayList : 593
+[DEBUG], 2023-04-04 14:32:49 pcwLog:18 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:32:49 pcwLog:19 - arrayList : 257
+[DEBUG], 2023-04-04 14:32:49 pcwLog:20 - LinkedList : 0
+[DEBUG], 2023-04-04 14:32:49 pcwLog:23 - ===순차적인 삭제===
+[DEBUG], 2023-04-04 14:36:23 pcwLog:13 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:36:23 pcwLog:14 - arrayList : 94
+[DEBUG], 2023-04-04 14:36:24 pcwLog:15 - arrayList : 593
+[DEBUG], 2023-04-04 14:36:24 pcwLog:18 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:36:24 pcwLog:19 - arrayList : 226
+[DEBUG], 2023-04-04 14:36:24 pcwLog:20 - LinkedList : 0
+[DEBUG], 2023-04-04 14:36:24 pcwLog:23 - ===순차적인 삭제===
+[DEBUG], 2023-04-04 14:36:49 pcwLog:13 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:36:50 pcwLog:14 - arrayList : 78
+[DEBUG], 2023-04-04 14:36:50 pcwLog:15 - arrayList : 609
+[DEBUG], 2023-04-04 14:36:50 pcwLog:18 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:36:50 pcwLog:19 - arrayList : 237
+[DEBUG], 2023-04-04 14:36:50 pcwLog:20 - LinkedList : 0
+[DEBUG], 2023-04-04 14:36:50 pcwLog:23 - ===순차적인 삭제===
+[DEBUG], 2023-04-04 14:37:43 pcwLog:13 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:37:43 pcwLog:14 - arrayList : 78
+[DEBUG], 2023-04-04 14:37:44 pcwLog:15 - arrayList : 609
+[DEBUG], 2023-04-04 14:37:44 pcwLog:18 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:37:44 pcwLog:19 - arrayList : 285
+[DEBUG], 2023-04-04 14:37:44 pcwLog:20 - LinkedList : 0
+[DEBUG], 2023-04-04 14:37:44 pcwLog:23 - ===순차적인 삭제===
+[DEBUG], 2023-04-04 14:37:44 pcwLog:24 - arrayList : 16
+[DEBUG], 2023-04-04 14:37:59 pcwLog:13 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:37:59 pcwLog:14 - arrayList : 94
+[DEBUG], 2023-04-04 14:38:00 pcwLog:15 - arrayList : 562
+[DEBUG], 2023-04-04 14:38:00 pcwLog:18 - ===중간에 추가 삭제===
+[DEBUG], 2023-04-04 14:38:00 pcwLog:19 - arrayList : 249
+[DEBUG], 2023-04-04 14:38:00 pcwLog:20 - LinkedList : 0
+[DEBUG], 2023-04-04 14:38:00 pcwLog:23 - ===순차적인 삭제===
+[DEBUG], 2023-04-04 14:38:00 pcwLog:24 - arrayList : 0
+[DEBUG], 2023-04-04 14:38:00 pcwLog:25 - arrayList : 31
+[DEBUG], 2023-04-04 15:11:46 pcwLog:18 - stack.pop() : Jsp
+[DEBUG], 2023-04-04 15:11:46 pcwLog:19 - stack.peek() : Javscript
+[DEBUG], 2023-04-04 15:11:46 pcwLog:22 - =======================================
+[DEBUG], 2023-04-04 15:11:46 pcwLog:25 - stack.pop() :Javscript
+[DEBUG], 2023-04-04 15:11:46 pcwLog:25 - stack.pop() :Css
+[DEBUG], 2023-04-04 15:11:46 pcwLog:25 - stack.pop() :Html
+[DEBUG], 2023-04-04 15:11:46 pcwLog:25 - stack.pop() :Database
+[DEBUG], 2023-04-04 15:11:46 pcwLog:25 - stack.pop() :JAVA
+[DEBUG], 2023-04-04 15:12:57 pcwLog:18 - stack.pop() : Jsp
+[DEBUG], 2023-04-04 15:12:57 pcwLog:19 - stack.peek() : Javscript
+[DEBUG], 2023-04-04 15:12:57 pcwLog:21 - stack.empty() : false
+[DEBUG], 2023-04-04 15:12:57 pcwLog:22 - stack.search() : -1
+[DEBUG], 2023-04-04 15:12:57 pcwLog:24 - =======================================
+[DEBUG], 2023-04-04 15:12:57 pcwLog:27 - stack.pop() :Javscript
+[DEBUG], 2023-04-04 15:12:57 pcwLog:27 - stack.pop() :Css
+[DEBUG], 2023-04-04 15:12:57 pcwLog:27 - stack.pop() :Html
+[DEBUG], 2023-04-04 15:12:57 pcwLog:27 - stack.pop() :Database
+[DEBUG], 2023-04-04 15:12:57 pcwLog:27 - stack.pop() :JAVA
+[DEBUG], 2023-04-04 15:14:10 pcwLog:18 - stack.pop() : Jsp
+[DEBUG], 2023-04-04 15:14:10 pcwLog:19 - stack.peek() : Javscript
+[DEBUG], 2023-04-04 15:14:10 pcwLog:21 - stack.empty() : false
+[DEBUG], 2023-04-04 15:14:10 pcwLog:22 - stack.search() : 2
+[DEBUG], 2023-04-04 15:14:10 pcwLog:24 - =======================================
+[DEBUG], 2023-04-04 15:14:10 pcwLog:27 - stack.pop() :Javscript
+[DEBUG], 2023-04-04 15:14:10 pcwLog:27 - stack.pop() :Css
+[DEBUG], 2023-04-04 15:14:10 pcwLog:27 - stack.pop() :Html
+[DEBUG], 2023-04-04 15:14:10 pcwLog:27 - stack.pop() :Database
+[DEBUG], 2023-04-04 15:14:10 pcwLog:27 - stack.pop() :JAVA
+[DEBUG], 2023-04-04 15:41:34 pcwLog:14 - {
+[DEBUG], 2023-04-04 15:41:34 pcwLog:41 - 괄호 불일치 합니다.
+[DEBUG], 2023-04-04 15:47:17 pcwLog:20 - {
+[DEBUG], 2023-04-04 15:47:17 pcwLog:20 - (
+[DEBUG], 2023-04-04 15:47:17 pcwLog:20 - )
+[DEBUG], 2023-04-04 15:47:17 pcwLog:20 - }
+[DEBUG], 2023-04-04 15:47:17 pcwLog:46 - 괄호 일치 합니다.
+[DEBUG], 2023-04-04 15:48:55 pcwLog:20 - [
+[DEBUG], 2023-04-04 15:48:55 pcwLog:20 - {
+[DEBUG], 2023-04-04 15:48:55 pcwLog:20 - (
+[DEBUG], 2023-04-04 15:48:55 pcwLog:20 - )
+[DEBUG], 2023-04-04 15:48:55 pcwLog:20 - }
+[DEBUG], 2023-04-04 15:48:55 pcwLog:20 - ]
+[DEBUG], 2023-04-04 15:48:55 pcwLog:48 - 괄호 일치 합니다.
+[DEBUG], 2023-04-04 16:06:24 pcwLog:20 - [
+[DEBUG], 2023-04-04 16:06:24 pcwLog:20 - {
+[DEBUG], 2023-04-04 16:06:24 pcwLog:20 - (
+[DEBUG], 2023-04-04 16:06:24 pcwLog:20 - )
+[DEBUG], 2023-04-04 16:06:24 pcwLog:56 - 괄호 불일치 합니다.
+[DEBUG], 2023-04-04 16:32:46 pcwLog:22 - queue : [12, 14, 17, 3, 23]
+[DEBUG], 2023-04-04 16:32:46 pcwLog:26 - queue : [14, 17, 3, 23]
+[DEBUG], 2023-04-04 16:32:46 pcwLog:31 - qData : 14
+[DEBUG], 2023-04-04 16:32:46 pcwLog:31 - qData : 17
+[DEBUG], 2023-04-04 16:32:46 pcwLog:31 - qData : 3
+[DEBUG], 2023-04-04 16:32:46 pcwLog:31 - qData : 23
