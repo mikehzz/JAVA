@@ -1,0 +1,21 @@
+package com_pcwk_ehr_cmn;
+
+import com_pcwk_ehr_cmn.pcwLog;
+import java.util.*;
+
+public class Ex01QueueHistory implements pcwLog {
+
+	public static void main(String[] args) {
+		//Command History를 Queue로 생성
+		//명령어 History크기 (5)
+		//1. Queue : command를 5개 저장
+		//2. Scanner통한 입력
+		//3. Quit입력 하면 종료
+		
+		
+		
+		
+		
+	}
+
+}

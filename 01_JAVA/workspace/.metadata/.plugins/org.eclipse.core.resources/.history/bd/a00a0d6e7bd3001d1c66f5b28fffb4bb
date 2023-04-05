@@ -1,0 +1,12 @@
+package com_pcwk_ehr03;
+
+import java.util.*;
+
+public class Ex06_Properties {
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+}

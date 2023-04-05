@@ -1,0 +1,17 @@
+package com_pcwk_ehr03;
+
+import java.util.*;
+
+public class Ex06_Properties {
+
+	public static void main(String[] args) {
+		//새로운 Properties객체 생성
+		Properties prop = new Properties();
+		
+		//Key-Value(String) 쌍 추가
+		prop.setProperty("db.url", "jdbc:mysql://localhost:3306/mydb");
+		prop.setProperty("db.username", "root");
+		prop.setProperty("db.password", "4321");
+		
+	}
+}

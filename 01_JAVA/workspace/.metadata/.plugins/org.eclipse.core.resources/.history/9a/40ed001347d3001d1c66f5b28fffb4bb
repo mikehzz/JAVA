@@ -1,0 +1,10 @@
+package com_pcwk_ehr_cmn;
+
+public class Ex01QueueHistory implements pcwLog {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

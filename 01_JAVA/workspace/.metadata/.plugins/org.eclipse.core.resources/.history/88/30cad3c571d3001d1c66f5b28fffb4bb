@@ -1,0 +1,28 @@
+package com_pcwk_ehr03;
+
+import com_pcwk_ehr_cmn.pcwLog;
+import java.util.HashMap;
+import java.util.Map;
+
+public class Ex01_HasMap implements pcwLog {
+
+	public static void main(String[] args) {
+		//Map 객체 생성
+		Map<String, Integer > map=new HashMap<>();
+		
+		
+		
+		//객체 추가(key, value)
+		map.put("one", 1);
+		map.put("two", 2);
+		map.put("three", 3);
+		map.put("four", 4);
+		map.put("five", 5);
+		map.put("five", 5);
+		
+		//map에 값 출력
+		LOG.debug("map:"+map);
+		
+	}
+
+}
