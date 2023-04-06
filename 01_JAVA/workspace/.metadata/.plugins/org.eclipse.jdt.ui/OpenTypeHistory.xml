@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=J19/src&lt;com_pcwk_ehr_cmn{pcwLog.java[pcwLog" modifiers="513" timestamp="1680567702625"/>
+    <typeInfo handle="=J21/src&lt;com_pcwk_ehr_cmn{DTO.java[DTO" modifiers="1" timestamp="1680752810128"/>
+    <typeInfo handle="=J21/src&lt;com_pcwk_ehr04{WorkDiv.java[WorkDiv" modifiers="513" timestamp="1680752814335"/>
+    <typeInfo handle="=J21/src&lt;com_pcwk_ehr06{Fruit.java[Fruit" modifiers="1" timestamp="1680761047801"/>
+    <typeInfo handle="=J21/src&lt;com_pcwk_ehr07{Box.java[Box" modifiers="1" timestamp="1680762527718"/>
+    <typeInfo handle="=J21/src&lt;com_pcwk_ehr_cmn{pcwLog.java[pcwLog" modifiers="513" timestamp="1680567702625"/>
 </typeInfoHistroy>

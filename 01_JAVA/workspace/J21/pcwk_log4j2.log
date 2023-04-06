@@ -1,0 +1,14 @@
+[DEBUG], 2023-04-06 12:27:03 pcwLog:15 - content : 즐거운 목요일 점심
+[DEBUG], 2023-04-06 12:27:04 pcwLog:15 - content : 즐거운 목요일 점심
+[DEBUG], 2023-04-06 12:29:02 pcwLog:15 - content : 즐거운 목요일 점심
+[DEBUG], 2023-04-06 12:29:02 pcwLog:21 - intcontent : 12
+[DEBUG], 2023-04-06 12:36:08 pcwLog:15 - content : 즐거운 목요일 점심
+[DEBUG], 2023-04-06 12:36:08 pcwLog:21 - intcontent : 12
+[DEBUG], 2023-04-06 15:14:46 pcwLog:26 - fruitBox : Box [item=[Fruit [], Apple]]
+[DEBUG], 2023-04-06 15:14:46 pcwLog:27 - appleBox : Box [item=[Apple, Apple]]
+[DEBUG], 2023-04-06 15:14:59 pcwLog:26 - fruitBox : Box [item=[Fruit [], Apple]]
+[DEBUG], 2023-04-06 15:14:59 pcwLog:27 - appleBox : Box [item=[Apple, Apple]]
+[DEBUG], 2023-04-06 15:14:59 pcwLog:28 - toyBox : Box [item=[Toy]]
+[DEBUG], 2023-04-06 15:36:37 pcwLog:14 - fruitBox : Box [item=[Fruit [], Apple, Grape]]
+[DEBUG], 2023-04-06 15:36:44 pcwLog:14 - fruitBox : Box [item=[Fruit [], Apple, Grape]]
+[DEBUG], 2023-04-06 16:17:22 pcwLog:13 - Juice [name=Box [item=[Apple, Grape]] Box [item=[Apple, Grape]] ]
