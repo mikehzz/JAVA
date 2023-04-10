@@ -3,6 +3,7 @@ package com_pcwk_ehr;
 public class Ed_06_MultiDim {
 
 	public static void main(String[] args) {
+		
 		int [][] score = {
 				{100,100,100},
 				{20,20,20},
@@ -34,3 +35,5 @@ public class Ed_06_MultiDim {
 		}
 	}
 }
+
+

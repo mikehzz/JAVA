@@ -8,7 +8,6 @@ public interface WorkDiv {
 	 */
 	public abstract Vector<DTO> doRetrive(DTO obj);	
 	
-	
 	public abstract int doSave(DTO obj);
 	
 	/**

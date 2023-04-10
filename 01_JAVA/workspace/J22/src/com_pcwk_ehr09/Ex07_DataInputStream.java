@@ -1,25 +1,34 @@
 package com_pcwk_ehr09;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 
 public class Ex07_DataInputStream {
 
 	public static void main(String[] args) {
-		try(FileInputStream fis = new FileInputStream("C:\\JAPA_0309\\01_JAVA\\workspace\\J22\\pcwkSample.dat");
-				DataInputStream dis = new DataInputStream(fis);)
-		{		
-			//기록한 순서대로 데이터 읽기
-			System.out.println(dis.readBoolean());
-			System.out.println(dis.readByte());
-			System.out.println(dis.readChar());
-			System.out.println(dis.readInt());
-			System.out.println(dis.readDouble());
-			
-		}catch(IOException e) {
-			System.out.println("=================");
-			System.out.println("=IOException="+e.getMessage());
-			System.out.println("=================");
-		}
+
+		String filePath = "C:\\JAPA_0309\\01_JAVA\\workspace\\Exam01\\src\\score.txt";
+		String arr[] = null;
+		try {
+            try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+                String line;
+                while ((line = br.readLine()) != null) {
+                    System.out.println(line);
+                    arr = line.split(",");
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+		
+		System.out.println(arr);
+		
+		
+		
+		
+		
 	}
 }
 //true

@@ -71,7 +71,6 @@
           </params>
           <isAbstract>false</isAbstract>
           <isStatic>true</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
       </children>
       <filterProperty/>
@@ -89,11 +88,6 @@
         <org.eclipse.ui.views.properties.TextPropertyDescriptor>
           <id class="string">_entityName</id>
           <display>Name</display>
-          <incompatible>false</incompatible>
-        </org.eclipse.ui.views.properties.TextPropertyDescriptor>
-        <org.eclipse.ui.views.properties.TextPropertyDescriptor>
-          <id class="string">_path</id>
-          <display>Path</display>
           <incompatible>false</incompatible>
         </org.eclipse.ui.views.properties.TextPropertyDescriptor>
         <org.eclipse.ui.views.properties.ColorPropertyDescriptor>
@@ -119,7 +113,6 @@
       </propertyDescriptors>
       <stereoType></stereoType>
       <name>com.pcwk.ehr07.Pint3DMain</name>
-      <path>/J11/src/com/pcwk/ehr07/Pint3DMain.java</path>
       <isAbstract>false</isAbstract>
     </net.java.amateras.uml.classdiagram.model.ClassModel>
     <net.java.amateras.uml.classdiagram.model.ClassModel>
@@ -139,8 +132,8 @@
       <constraint>
         <height>-1</height>
         <width>-1</width>
-        <x>226</x>
-        <y>147</y>
+        <x>246</x>
+        <y>132</y>
       </constraint>
       <sourceConnections/>
       <targetConnections>
@@ -172,11 +165,41 @@
             <constraint>
               <height>-1</height>
               <width>-1</width>
-              <x>207</x>
+              <x>235</x>
               <y>16</y>
             </constraint>
             <sourceConnections>
               <net.java.amateras.uml.classdiagram.model.GeneralizationModel reference="../../.."/>
+              <net.java.amateras.uml.classdiagram.model.GeneralizationModel>
+                <showIcon>true</showIcon>
+                <listeners serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="net.java.amateras.uml.classdiagram.model.GeneralizationModel" reference="../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                </listeners>
+                <source class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
+                <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../../../../.."/>
+                <bendpoints/>
+              </net.java.amateras.uml.classdiagram.model.GeneralizationModel>
+              <net.java.amateras.uml.classdiagram.model.GeneralizationModel>
+                <showIcon>true</showIcon>
+                <listeners serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="net.java.amateras.uml.classdiagram.model.GeneralizationModel" reference="../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                </listeners>
+                <source class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
+                <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../../../../.."/>
+                <bendpoints/>
+              </net.java.amateras.uml.classdiagram.model.GeneralizationModel>
             </sourceConnections>
             <targetConnections/>
             <children>
@@ -198,8 +221,6 @@
                 <name>z</name>
                 <type>int</type>
                 <isStatic>false</isStatic>
-                <isFinal>false</isFinal>
-                <isEnumCst>false</isEnumCst>
               </net.java.amateras.uml.classdiagram.model.AttributeModel>
               <net.java.amateras.uml.classdiagram.model.OperationModel>
                 <backgroundColor reference="../../../../../../../../backgroundColor"/>
@@ -234,7 +255,6 @@
                 </params>
                 <isAbstract>false</isAbstract>
                 <isStatic>false</isStatic>
-                <isFinal>false</isFinal>
               </net.java.amateras.uml.classdiagram.model.OperationModel>
               <net.java.amateras.uml.classdiagram.model.OperationModel>
                 <backgroundColor reference="../../../../../../../../backgroundColor"/>
@@ -256,7 +276,6 @@
                 <params/>
                 <isAbstract>false</isAbstract>
                 <isStatic>false</isStatic>
-                <isFinal>false</isFinal>
               </net.java.amateras.uml.classdiagram.model.OperationModel>
             </children>
             <filterProperty/>
@@ -274,11 +293,6 @@
               <org.eclipse.ui.views.properties.TextPropertyDescriptor>
                 <id class="string">_entityName</id>
                 <display>Name</display>
-                <incompatible>false</incompatible>
-              </org.eclipse.ui.views.properties.TextPropertyDescriptor>
-              <org.eclipse.ui.views.properties.TextPropertyDescriptor>
-                <id class="string">_path</id>
-                <display>Path</display>
                 <incompatible>false</incompatible>
               </org.eclipse.ui.views.properties.TextPropertyDescriptor>
               <org.eclipse.ui.views.properties.ColorPropertyDescriptor>
@@ -304,12 +318,13 @@
             </propertyDescriptors>
             <stereoType></stereoType>
             <name>com.pcwk.ehr07.Point3D</name>
-            <path>/J11/src/com/pcwk/ehr07/Point3D.java</path>
             <isAbstract>false</isAbstract>
           </source>
           <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
           <bendpoints/>
         </net.java.amateras.uml.classdiagram.model.GeneralizationModel>
+        <net.java.amateras.uml.classdiagram.model.GeneralizationModel reference="../net.java.amateras.uml.classdiagram.model.GeneralizationModel/source/sourceConnections/net.java.amateras.uml.classdiagram.model.GeneralizationModel[2]"/>
+        <net.java.amateras.uml.classdiagram.model.GeneralizationModel reference="../net.java.amateras.uml.classdiagram.model.GeneralizationModel/source/sourceConnections/net.java.amateras.uml.classdiagram.model.GeneralizationModel[3]"/>
       </targetConnections>
       <children>
         <net.java.amateras.uml.classdiagram.model.AttributeModel>
@@ -330,8 +345,6 @@
           <name>x</name>
           <type>int</type>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
-          <isEnumCst>false</isEnumCst>
         </net.java.amateras.uml.classdiagram.model.AttributeModel>
         <net.java.amateras.uml.classdiagram.model.AttributeModel>
           <backgroundColor reference="../../../../../backgroundColor"/>
@@ -351,8 +364,6 @@
           <name>y</name>
           <type>int</type>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
-          <isEnumCst>false</isEnumCst>
         </net.java.amateras.uml.classdiagram.model.AttributeModel>
         <net.java.amateras.uml.classdiagram.model.OperationModel>
           <backgroundColor reference="../../../../../backgroundColor"/>
@@ -383,7 +394,6 @@
           </params>
           <isAbstract>false</isAbstract>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
         <net.java.amateras.uml.classdiagram.model.OperationModel>
           <backgroundColor reference="../../../../../backgroundColor"/>
@@ -405,7 +415,6 @@
           <params/>
           <isAbstract>false</isAbstract>
           <isStatic>false</isStatic>
-          <isFinal>false</isFinal>
         </net.java.amateras.uml.classdiagram.model.OperationModel>
       </children>
       <filterProperty/>
@@ -423,11 +432,6 @@
         <org.eclipse.ui.views.properties.TextPropertyDescriptor>
           <id class="string">_entityName</id>
           <display>Name</display>
-          <incompatible>false</incompatible>
-        </org.eclipse.ui.views.properties.TextPropertyDescriptor>
-        <org.eclipse.ui.views.properties.TextPropertyDescriptor>
-          <id class="string">_path</id>
-          <display>Path</display>
           <incompatible>false</incompatible>
         </org.eclipse.ui.views.properties.TextPropertyDescriptor>
         <org.eclipse.ui.views.properties.ColorPropertyDescriptor>
@@ -453,7 +457,6 @@
       </propertyDescriptors>
       <stereoType></stereoType>
       <name>com.pcwk.ehr07.Point</name>
-      <path>/J11/src/com/pcwk/ehr07/Point.java</path>
       <isAbstract>false</isAbstract>
     </net.java.amateras.uml.classdiagram.model.ClassModel>
     <net.java.amateras.uml.classdiagram.model.ClassModel reference="../net.java.amateras.uml.classdiagram.model.ClassModel[2]/targetConnections/net.java.amateras.uml.classdiagram.model.GeneralizationModel/source"/>

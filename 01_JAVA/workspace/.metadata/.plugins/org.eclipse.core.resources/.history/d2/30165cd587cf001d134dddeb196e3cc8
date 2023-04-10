@@ -1,7 +1,0 @@
-package com_pcwk_ehr04;
-
-import com_pcwk_ehr_cmn.pcwLog;
-
-public class BigDecimalMain implements pcwLog {
-
-}

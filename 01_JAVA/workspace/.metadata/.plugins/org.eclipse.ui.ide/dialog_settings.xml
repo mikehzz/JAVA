@@ -30,6 +30,15 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J14"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J13"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J12"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J11"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J10"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J09"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J08"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J15"/>
+			<item value="C:\JAPA_0309\01_JAVA\workspace\J01"/>
 			<item value="C:\JAPA_0309\01_JAVA\workspace\j01"/>
 		</list>
 	</section>

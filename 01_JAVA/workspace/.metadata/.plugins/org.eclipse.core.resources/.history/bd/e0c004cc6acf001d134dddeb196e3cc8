@@ -1,6 +1,0 @@
-package com_pcwk_ehr03;
-import java.util.regex.*;
-
-public class RegExp01Main {
-
-}
