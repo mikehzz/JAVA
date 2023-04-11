@@ -12,7 +12,6 @@ public class Ex03 {
 				sum += j;
 			}
 		}
-		
 		System.out.println("답 :"+sum);
 	}
 	

@@ -1,7 +1,0 @@
-package com_pcwk_ehr;
-
-import com_pcwk_ehr_cmn.pcwLog;
-
-public class Ed_02_DateTime implements pcwLog {
-
-}
