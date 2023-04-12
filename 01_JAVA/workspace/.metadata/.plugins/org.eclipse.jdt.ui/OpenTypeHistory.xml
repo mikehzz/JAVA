@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=J24/src&lt;com_pcwk_ehr_cmn{pcwLog.java[pcwLog" modifiers="513" timestamp="1680567702625"/>
+    <typeInfo handle="=J25/src&lt;com_pcwk_ehr_cmn{pcwLog.java[pcwLog" modifiers="513" timestamp="1681259278810"/>
+    <typeInfo handle="=J25/C:\/Program Files\/Java\/jre1.8.0_351\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1678339320952"/>
+    <typeInfo handle="=J25/C:\/Program Files\/Java\/jre1.8.0_351\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1678339320952"/>
 </typeInfoHistroy>
